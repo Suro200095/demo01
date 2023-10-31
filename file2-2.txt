@@ -1,1 +1,2 @@
  This is line 1 oof file2-2.txt
+ This is line2 of file2-2.txt
